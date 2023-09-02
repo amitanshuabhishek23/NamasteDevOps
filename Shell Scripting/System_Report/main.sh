@@ -7,6 +7,8 @@
 echo $HOSTNAME
 source cpu_usage.sh
 source mem_usage.sh
+source email.sh
+source file_op.sh
 
 echo "
     Select your choice: 
